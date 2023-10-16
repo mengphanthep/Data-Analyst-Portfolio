@@ -11,4 +11,4 @@
 - Data Modeling
 - Essential Statistics
 - Python for Data Analyst
-- Dashboard & Report
+- Dashboard & Report : (Power Bi, Tableu, Looker Studio)
