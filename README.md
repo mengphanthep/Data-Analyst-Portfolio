@@ -1,13 +1,14 @@
-# Data Science Bootcamp 7
-All my data projects in the bootcamp. There are 10 sprints as follow.
+# Hello! My name is Phanthep. Welcome to my Data Analyst Portfolio
+ "If Data is the new oil, so I'm drilling rig engineer."
 
+- Microsoft Excel : (vlookup, xlookup, aggregate funtion, sumif, sumifs, pivot table, power query, python, etc.)
 - Google Sheets
 - SQL
-- R Programming
+- Power BI
+- DAX
 - Data Transformation
-- Data Visualization
+- Data Visualization : (Power Bi, Tableu, Looker Studio)
 - Essential Statistics
-- Essential ML
 - Python
 - Python for Data Analyst
 - Dashboard
