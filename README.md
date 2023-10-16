@@ -7,8 +7,8 @@
 - Power BI
 - DAX
 - Data Transformation
-- Data Visualization : (Power Bi, Tableu, Looker Studio)
+- Data Visualization : (Power Bi, Tableau, Looker Studio)
 - Data Modeling
 - Essential Statistics
 - Python for Data Analyst
-- Dashboard & Report : (Power Bi, Tableu, Looker Studio)
+- Dashboard & Report : (Power Bi, Tableau, Looker Studio)
